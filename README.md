@@ -1,4 +1,5 @@
 **bspwm-fedora**
+
 My Fedora Bspwm **"rice"** doties
 
 ![2024-02-29_20-47](https://github.com/socute727/bspwm-fedora/assets/152518983/f118bff0-4831-4802-95b4-fe7449150d58)
